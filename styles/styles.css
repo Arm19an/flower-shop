@@ -103,7 +103,7 @@
 }
 .service{
     min-height: 170px;
-    width:80%;
+    width:85%;
     padding: 20px;
     display: flex;
     border-radius: 8px;
@@ -145,4 +145,31 @@ span{
     background: #E55473;
     text-align: center;
     justify-content: center;
+}
+.text-sec{
+    margin-top: 30px;
+    color: #272727;
+    text-align: center;
+    font-size:29px;
+
+
+}
+.insta-section{
+
+}
+.img-sec{
+   display: flex;
+   align-items: center;
+   gap: 10px;
+   justify-content:space-between;
+  
+}
+.imgs>img{
+    
+    margin:5px;
+    width: auto;
+    max-width: 240px;
+    height:auto;
+
+    
 }
