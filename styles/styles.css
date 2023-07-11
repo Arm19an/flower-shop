@@ -118,4 +118,31 @@
 }
 .pera4{
    color: rgb(151, 140, 140);
+   text-align: center;
+}
+.text{
+    margin-top: 65px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.img-fl{
+  size: 30%;
+  text-align: center;
+}
+.hd{
+    text-align: center;
+}
+span{
+    color:  #E55473;
+}
+.btn2{
+    margin-left: 186px;
+    border-radius: 2px;
+    background: #E55473;
+    text-align: center;
+    justify-content: center;
 }
