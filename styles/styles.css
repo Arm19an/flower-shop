@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    max-height: 850px;
+    background: rgba(229, 84, 115, 0.10);  
+    
+}
+.banner-container{
+   width: 100vh;
+   align-items: center;
+   
+}
+.banner-charming{
+    font-size: 65px;
+    padding: 54px;
+    color: #272727;
+    font-weight:bold;
+
+}
+.pera{
+    padding: 56px;
+    margin-top:-85px;
+}
+.btn{
+    display: flex;
+    justify-content: flex-start;
+    margin-top:-35px;
+    text-align: center;
+    padding:10px;
+    margin-left:45px;
+    background-color: rgb(247, 79, 135);
+    border-radius: 8px;
+    color: white;
+}
+
+.image-1{
+    width: 370px;
+}
